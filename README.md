@@ -2,4 +2,4 @@
 
 [Ссылка на задание](https://github.com/netology-code/ahj-homeworks/tree/video/events)
 
-[![CI](https://github.com/Zunickx/ahj-event/actions/workflows/web.yml/badge.svg)](https://ci.appveyor.com/project/Zunickx/ahj-event)https://ci.appveyor.com/project/Zunickx/ahj-event
+[![Build status](https://ci.appveyor.com/api/projects/status/e18kre94op63oxrd?svg=true)](https://ci.appveyor.com/project/Zunickx/ahj-event)
